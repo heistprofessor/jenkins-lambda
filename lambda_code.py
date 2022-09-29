@@ -4,5 +4,8 @@ def lambda_handler(event, context):
     # TODO implement
     return {
         'statusCode': 200,
-        'body': json.dumps('Chale Chalo................ha ha ha ha:and do not misunderstand the process folks)')
+        'body': json.dumps('Jai Hind...Toh bolo....JAI HIND')
     }
+
+
+print("THis is the life...going for the Endoscopy of nose...its not funny")
